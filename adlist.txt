@@ -10,4 +10,4 @@
 0.0.0.0 irondai.com
 0.0.0.0 bestsolaris.com
 0.0.0.0 inklinkor.com
-0.0.0.0 ioxffew.com
+0.0.0.0 ioxffew.com0.0.0.0 btodsjr.com
