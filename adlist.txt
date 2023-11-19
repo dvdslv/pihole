@@ -11,6 +11,4 @@
 0.0.0.0 bestsolaris.com
 0.0.0.0 inklinkor.com
 0.0.0.0 ioxffew.com
-\r\n0.0.0.0 btodsjr.com
-0.0.0.0 btodsjr.com
 0.0.0.0 btodsjr.com
