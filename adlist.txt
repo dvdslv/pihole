@@ -11,8 +11,3 @@
 0.0.0.0 bestsolaris.com
 0.0.0.0 inklinkor.com
 0.0.0.0 ioxffew.com
-<<<<<<< HEAD
-0.0.0.0 amygrant.com
-0.0.0.0 btodsjr.com
-=======
->>>>>>> b133b1a4ffeb167467c464b8046dca225508cf13
