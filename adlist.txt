@@ -22,3 +22,4 @@
 0.0.0.0 wholesomelethal.com
 0.0.0.0 agriculturalpraise.com
 0.0.0.0 muscledarcysilly.com
+0.0.0.0 uvtuiks.com
