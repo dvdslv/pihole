@@ -32,5 +32,4 @@
 0.0.0.0 tfmgqdj.com
 0.0.0.0 evwmwnd.com
 0.0.0.0 hnxhksg.com
-0.0.0.0 https://stbshzm.com/script/ut.js?cb=1704657524728
-0.0.0.0 https://pubtrky.com/ut/hb.php?cb=0.9043013261577604&v=1
+0.0.0.0 pubtrky.com
