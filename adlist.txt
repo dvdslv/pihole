@@ -38,3 +38,6 @@
 0.0.0.0 dzsorpf.com
 0.0.0.0 ctrtrk.com
 0.0.0.0 hrtvluy.com
+0.0.0.0 bwgmymp.com
+0.0.0.0 pubtrky.com
+0.0.0.0 rhsorga.com
