@@ -47,3 +47,5 @@
 0.0.0.0 sgihava.com
 0.0.0.0 interbuzznews.com
 0.0.0.0 ussxglczwrscla.com
+0.0.0.0 mgxphjfsf.com
+0.0.0.0 interbuzznews.com
