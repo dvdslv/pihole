@@ -43,3 +43,5 @@
 0.0.0.0 rhsorga.com
 0.0.0.0 tcowmrj.com
 0.0.0.0 dtybyfo.com
+0.0.0.0 fnzuymy.com
+0.0.0.0 sgihava.com
