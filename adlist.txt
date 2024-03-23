@@ -51,3 +51,8 @@
 0.0.0.0 interbuzznews.com
 0.0.0.0 whoursie.com
 0.0.0.0 photcheefets.com
+0.0.0.0 whoursie.com
+0.0.0.0 ophoacit.com
+0.0.0.0 fastreams.live
+0.0.0.0 acscdn.com
+0.0.0.0 photcheefets.com
