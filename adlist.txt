@@ -56,3 +56,4 @@
 0.0.0.0 fastreams.live
 0.0.0.0 acscdn.com
 0.0.0.0 photcheefets.com
+0.0.0.0 https://bgecvddelzg.com/script/ut.js?cb=1719182831444
