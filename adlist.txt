@@ -58,5 +58,4 @@
 0.0.0.0 photcheefets.com
 0.0.0.0 cssuvtbfeap.com
 0.0.0.0 bgecvddelzg.com
-0.0.0.0 cssuvtbfeap.com
-0.0.0.0 bgecvddelzg.com
+0.0.0.0 bob.com
