@@ -59,3 +59,4 @@
 0.0.0.0 cssuvtbfeap.com
 0.0.0.0 bgecvddelzg.com
 0.0.0.0 bob.com
+0.0.0.0 telemetry.mozilla.org
